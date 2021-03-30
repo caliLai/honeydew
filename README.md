@@ -47,9 +47,9 @@ Several of the steps ask you to be a bit creative, to come up with something tha
 
 13) Let's try most of those things.  It's time for the JUNIOR to make a novel Issue.  Gotta amuse yourself by coming up with some dumb issue request.  :)
 
-14) Look, SENIOR, a new Issue!  Oh, I love those!  At least it's properly organized in your Project board.  Make sure that it is, in fact, auto-populated into your Projects board!  Take a screenshot of the Projects board, so you have something to hand in later.  Write a little message saying "I'd love a PR to solve this", and move it out of the ToDo column of your Project (maybe there's a "current sprint" column, or a "stuff I gave to the junior", or something). 
+14) Look, SENIOR, a new Issue!  Oh, I love those!  At least it's properly organized in your Project board.  Make sure that it is, in fact, auto-populated into your Projects board!  Take a screenshot of the Projects board, so you have something to hand in later.  Write a little message into the Issue, saying "I'd love a PR to solve this".  Can you assign it back to the person who requested it?  If you can, do.  And move it out of the ToDo column of your Project (maybe there's a "current sprint" column, or a "stuff I gave to the junior", or something). 
 
-15) The JUNIOR can now do the work.  In particular, Junior, when you make a commit to solve this, you will write "Resolves #X" in the commit message (ideally not in the first line).  Figure out what the correct number is for X.  The goal is that when your issue is merged, it'll close the Issue you created.
+15) The JUNIOR can now do the "implementation" work.  In particular, Junior, when you make a commit to "solve" this, you will write "Resolves #X" in the commit message (ideally not in the first line).  Figure out what the correct number is for X.  The goal is that when your issue is merged, it'll close the Issue you created.
 
 16) The JUNIOR can also make a PR.
 
